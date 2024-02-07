@@ -1,3 +1,6 @@
+document.querySelector("banan-buttonBuyNow").addEventListener("click", function() {
+  window.location.href = "/html/goods/banan.html";
+});
 $(document).ready(function() {
   let phrases = [
     'Промокод: D2h4zjG -15%',
