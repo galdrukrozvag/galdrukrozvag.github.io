@@ -1,0 +1,101 @@
+
+.normal-btn {
+    background-color: #ff0019;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 20px;
+}
+.banan-btn_awrapper {
+    width: 100%;
+    display: block;
+}
+.normal-btn_buy {
+    margin: 0;
+    font-size: 40px;
+}
+.banan-btn:hover {
+    transition: background-color 1s ease;
+    background-color: rgb(0, 123, 255);
+}
+/*  */
+.banan-btn {
+    background-color: #ffe100;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 20px;
+}
+.banan-btn_buy {
+    margin: 0;
+    font-size: 40px;
+}
+.banan-btn_awrapper {
+    width: 100%;
+    display: block;
+}
+.banan-btn:hover {
+    transition: background-color 1s ease;
+    background-color: rgb(255, 115, 0);
+}
+/*  */
+.handmade-btn {
+    background-color: #ffb300;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.handmade-btn_buy {
+    margin: 0;
+    font-size: 40px;
+}
+.handmade-btn_awrapper {
+    width: 100%;
+    display: block;
+}
+.handmade-btn:hover {
+    transition: background-color 1s ease;
+    background-color: rgba(255, 115, 0, 0.796);
+}
+/*  */
+.coolpolunitsa-btn {
+    background-color: #ff0019;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 20px;
+}
+.coolpolunitsa-btn_buy {
+    margin: 0;
+    font-size: 30px;
+}
+.coolpolunitsa-btn_awrapper {
+    width: 100%;
+    display: block;
+}
+.coolpolunitsa-btn:hover {
+    transition: background-color 1s ease;
+    background-color: rgb(160, 0, 32);
+}
+.coolpolunitsa-btn.twozero {
+    background-color: #c70000;
+}
+.coolpolunitsa-btn.twozero:hover {
+    background-color: #6a0000;
+}
+/*  */
+.normal-btn.keys {
+    background: #ff0019;
+    align-items: center;
+}
+/*  */

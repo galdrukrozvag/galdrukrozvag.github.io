@@ -13,6 +13,9 @@ background: linear-gradient(to top, #f67969, #f63838);
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    flex-wrap: wrap;
+    width: 80vw;
+    margin: 0 auto;
 }
 .ptypes-element_wrapper {
     text-align: center;
@@ -20,7 +23,10 @@ background: linear-gradient(to top, #f67969, #f63838);
 .ptypes-img_wrapper {
     background-color: #fa2525; 
     border-radius: 30px;
-
+}
+.ptypes-img_wrapper:hover {
+    transition: 2s;
+    background-color: #a72020; 
 }
 .ptypes-element_awrapper {
 

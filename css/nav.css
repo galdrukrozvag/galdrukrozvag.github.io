@@ -1,0 +1,43 @@
+
+header {
+    display: flex; justify-content: space-around;
+    align-self: center;
+    background: linear-gradient(to left, #412b59, #9d519d);
+}
+
+.nav-li {
+background: -webkit-linear-gradient(0deg, #9d519d 0%, #bc52a5 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.head-logoAWrapper {
+    display: flex;
+    justify-content: space-around; 
+    align-self: center;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+}
+.head-logoTxt {
+    background: -webkit-linear-gradient(0deg, #693f83 0%, #4b3069 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: 3vw;
+}
+.head-logoImg {
+    width: 7vw;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}  
+.nav-li {
+    display: inline-block;
+    padding-left: 1vw;
+    font-size: 2vw;
+}
+    

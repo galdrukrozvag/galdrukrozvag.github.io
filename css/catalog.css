@@ -6,7 +6,7 @@
 }
 .choose-text {
     margin: 0;
-    font-size: 40px;
+    font-size: 4vw;
 }
 .cat {
     background: linear-gradient(to top, #7a357a, #412b59);
@@ -20,17 +20,19 @@
     background-color: #7552b2;
     padding: 20px 20px 20px 20px;
     text-align: center;
-    width: 250px;
+    width: 25vw;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 .cat-element_img {
-    width: 250px;
-    height: 250px;
+    width: 25vw;
+    height: 25vw;
 }
 .cat-element_text {
     color: #e2abff;
+    font-size: 4vw;
 }
-.element_subscript {
+.cat-element_subscript {
     color: #412b59;
+    font-size: 3vw;
 }

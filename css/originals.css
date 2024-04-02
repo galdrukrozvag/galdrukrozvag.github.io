@@ -8,10 +8,10 @@
 }
 .originals-text {
     margin: 0;
-    font-size: 40px;
+    font-size: 4vw;
 }
 .originals-subtext {
-    font-size: 25px;
+    font-size: 2.5vw;
     margin-top: 10px;
     color: rgb(255, 244, 223);
     margin-bottom: 0;
@@ -28,7 +28,7 @@
 .strawberry-img_wrapper {
     background-color: #e45255;
     border-radius: 20px;
-    margin: 20px 20px 20px 20px;
+    margin: 2vw;
 }
 .strawberry-text_wrapper {
     background: #bc4949;
@@ -44,10 +44,10 @@
     flex-direction: column;
 }
 .strawberry-text {
-    font-size: 30px;
+    font-size: 3vw;
 }
 .strawberry-subtext {
-    font-size: 20px;
+    font-size: 2vw;
     color: rgb(255, 204, 204);
 }
 .strawberry-2_0_text_wrapper {
@@ -70,17 +70,18 @@
     background: linear-gradient(to left, #6be972, #0eeb24);
     justify-content: space-around;
     padding-bottom: 30px;
+    flex-direction: row;
 }
 .cactus-img_wrapper {
     
 }
 .cactus-img {
-    height: 600px;
+    height: 60vw;
 }
 .cactus-text_wrapper {
     background-color: #00d31c;
-    padding: 30px 30px 30px 30px;
-    border-radius: 30px;
+    padding: 3vw;
+    border-radius: 3vw;
     text-align: center; 
     max-width: 40vw;
 }
@@ -92,11 +93,10 @@
     border-radius: 17px;
     background: #00ff08;
     border: 0;
-    font-size: 60px;
+    font-size: 6vw;
     padding: 40px;
     text-align: center;
     width: 100%;
-    min-width: 300px;
     font-weight: 800;
     color: white;
     margin-top: 20px;
@@ -106,34 +106,35 @@
     background: #00980d;
 }
 .cactus-text {
-    font-size: 40px;
+    font-size: 7vw;
     margin-top: 0;
 }
 .cactus-subtext {
     color: white;
-    font-size: 25px;
+    font-size: 2.5vw;
     margin-bottom: 0;
 }
 /*  */
 
 .konus {
-    padding-top: 40px;
+    padding: 40px;
     display: flex;
     background: linear-gradient(to left, #ff6200, #eb4d0e);
     justify-content: space-around;
     flex-direction: row;
     align-items: center;
+    
 }
 .konus-img_wrapper {
     
 }
 .konus-img {
-    height: 600px;
+    height: 60vw;
 }
 .konus-text_wrapper {
     background-color: #ff8736;
-    padding: 30px 30px 30px 30px;
-    border-radius: 30px;
+    padding: 3vw;
+    border-radius: 3vw;
     text-align: center; 
     max-width: 60vw;
 }
@@ -145,11 +146,10 @@
     border-radius: 17px;
     background: #c0441b;
     border: 0;
-    font-size: 60px;
+    font-size: 6vw;
     padding: 40px;
     text-align: center;
     width: 100%;
-    min-width: 300px;
     font-weight: 800;
     color: white;
     margin-top: 20px;
@@ -160,11 +160,11 @@
     box-shadow: 0 2px 5px 0 rgb(213 217 217 / 50%);
 }
 .konus-text {
-    font-size: 50px;
+    font-size: 5vw;
     margin-top: 0;
 }
 .konus-subtext {
     color: white;
-    font-size: 30px;
+    font-size: 3vw;
     margin-bottom: 0;
 }
